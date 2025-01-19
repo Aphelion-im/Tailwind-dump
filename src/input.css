@@ -1,3 +1,6 @@
+/* If you see squiggly lines below, install the following PostCSS extension:
+https://marketplace.visualstudio.com/items?itemName=csstools.postcss
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
